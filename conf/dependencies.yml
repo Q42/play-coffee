@@ -1,0 +1,4 @@
+self: play -> play-coffee-q42 1.6.1
+
+require:
+    - play -> play 1.2.5.3
